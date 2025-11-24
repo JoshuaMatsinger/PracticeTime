@@ -1,0 +1,3 @@
+greeting = "Dumb Nerd"
+print (greeting) 
+
