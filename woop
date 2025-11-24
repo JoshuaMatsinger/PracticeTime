@@ -1,6 +1,16 @@
+import time
+import tkinter as tk
+
+
+
+
+
 greeting = "Dumb Nerd"
 greeting2 = "How are you?"
 
 print (greeting)
+time.sleep (1.5)
 print (greeting2)
+time.sleep (1.5)
+tk.mainloop()
 
